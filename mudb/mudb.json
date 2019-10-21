@@ -77,7 +77,7 @@
         "user": "user5631"
     },
     {
-        "d": 0,
+        "d": 45261744,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -88,11 +88,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 975398,
         "user": "user1001"
     },
     {
-        "d": 0,
+        "d": 1105288418,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -103,11 +103,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1979007,
         "user": "user9099"
     },
     {
-        "d": 0,
+        "d": 3391891,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -118,7 +118,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1908427,
         "user": "user8099"
     },
     {
@@ -137,7 +137,7 @@
         "user": "user1286"
     },
     {
-        "d": 197684691,
+        "d": 217318352,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -148,11 +148,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 12373821,
+        "u": 14449865,
         "user": "user6001"
     },
     {
-        "d": 37186578,
+        "d": 40938236,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -163,7 +163,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 645054,
+        "u": 1047461,
         "user": "user6002"
     },
     {
@@ -212,7 +212,7 @@
         "user": "user6005"
     },
     {
-        "d": 8094249,
+        "d": 8218313,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -223,11 +223,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 279266,
+        "u": 299392,
         "user": "user6006"
     },
     {
-        "d": 0,
+        "d": 59957977,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -238,7 +238,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1839823,
         "user": "user6007"
     },
     {
@@ -287,7 +287,7 @@
         "user": "user6010"
     },
     {
-        "d": 3276346,
+        "d": 321284862,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -298,7 +298,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 121803,
+        "u": 7878614,
         "user": "user6011"
     },
     {
@@ -327,12 +327,12 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 574946,
         "user": "user6013"
     },
     {
-        "d": 0,
+        "d": 311640017,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -343,7 +343,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1842684,
         "user": "user6014"
     },
     {
@@ -377,7 +377,7 @@
         "user": "user6016"
     },
     {
-        "d": 247622217,
+        "d": 250750946,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -388,11 +388,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 53986141,
+        "u": 56869404,
         "user": "user6017"
     },
     {
-        "d": 1297575332,
+        "d": 1314797733,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -403,7 +403,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 31307738,
+        "u": 31669825,
         "user": "user6018"
     },
     {
@@ -432,12 +432,12 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 0,
         "user": "user6020"
     },
     {
-        "d": 0,
+        "d": 424857264,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -448,11 +448,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 20437,
         "user": "user6021"
     },
     {
-        "d": 0,
+        "d": 22923296,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -463,7 +463,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 277998,
         "user": "user6022"
     },
     {
@@ -497,7 +497,7 @@
         "user": "user6024"
     },
     {
-        "d": 0,
+        "d": 145832447,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -508,7 +508,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1278984,
         "user": "user6025"
     },
     {
@@ -542,7 +542,7 @@
         "user": "user6027"
     },
     {
-        "d": 56950696,
+        "d": 115676056,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -553,11 +553,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1380365,
+        "u": 2314618,
         "user": "user6028"
     },
     {
-        "d": 96581670,
+        "d": 124225311,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -568,11 +568,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 559984,
+        "u": 805001,
         "user": "user6029"
     },
     {
-        "d": 13663911,
+        "d": 386710976,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -583,7 +583,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2416610,
+        "u": 3708672,
         "user": "user6030"
     },
     {
@@ -602,7 +602,7 @@
         "user": "user6031"
     },
     {
-        "d": 0,
+        "d": 43964408,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -613,7 +613,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1683726,
         "user": "user6032"
     },
     {
@@ -632,7 +632,7 @@
         "user": "user6033"
     },
     {
-        "d": 6355813004,
+        "d": 6645851293,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -643,11 +643,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 76332450,
+        "u": 80928065,
         "user": "user6034"
     },
     {
-        "d": 69437783,
+        "d": 161848089,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -658,11 +658,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2635567,
+        "u": 4151316,
         "user": "user6035"
     },
     {
-        "d": 0,
+        "d": 182576517,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -673,11 +673,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 217807,
         "user": "user6036"
     },
     {
-        "d": 331358924,
+        "d": 374069960,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -688,7 +688,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 5398076,
+        "u": 5672172,
         "user": "user6037"
     },
     {
@@ -752,7 +752,7 @@
         "user": "user6041"
     },
     {
-        "d": 0,
+        "d": 2380161972,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -763,11 +763,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 9356463,
         "user": "user6043"
     },
     {
-        "d": 392609969,
+        "d": 543552186,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -778,7 +778,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1737547,
+        "u": 2020167,
         "user": "user6044"
     },
     {
@@ -867,7 +867,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 11180,
         "user": "user7002"
     },
@@ -887,7 +887,7 @@
         "user": "user7003"
     },
     {
-        "d": 0,
+        "d": 45704534,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -898,7 +898,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 9484577,
         "user": "user7004"
     },
     {
@@ -947,7 +947,7 @@
         "user": "user7007"
     },
     {
-        "d": 58434222,
+        "d": 147849901,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -958,7 +958,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1724525,
+        "u": 2467895,
         "user": "user7008"
     },
     {
@@ -977,7 +977,7 @@
         "user": "user7009"
     },
     {
-        "d": 5655419,
+        "d": 1588573158,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -988,7 +988,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 274060,
+        "u": 6097736,
         "user": "user7010"
     },
     {
@@ -1037,7 +1037,7 @@
         "user": "user7013"
     },
     {
-        "d": 95740506,
+        "d": 113085415,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1048,11 +1048,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1963596,
+        "u": 2259555,
         "user": "user7014"
     },
     {
-        "d": 0,
+        "d": 4872469,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1063,11 +1063,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 521107,
         "user": "user8000"
     },
     {
-        "d": 0,
+        "d": 83184,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1078,11 +1078,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 80,
+        "u": 47659,
         "user": "user8001"
     },
     {
-        "d": 5828755,
+        "d": 10069227,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1093,11 +1093,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 194635,
+        "u": 789589,
         "user": "user8002"
     },
     {
-        "d": 99894185,
+        "d": 143514333,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1108,11 +1108,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1695773,
+        "u": 2133045,
         "user": "user8003"
     },
     {
-        "d": 0,
+        "d": 4684313,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1123,11 +1123,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 116752,
         "user": "user8004"
     },
     {
-        "d": 0,
+        "d": 66607411,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1138,11 +1138,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 2191100,
         "user": "user8005"
     },
     {
-        "d": 0,
+        "d": 251336255,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1153,11 +1153,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 3540861,
         "user": "user8006"
     },
     {
-        "d": 0,
+        "d": 138704575,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1168,11 +1168,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 373600,
         "user": "user8007"
     },
     {
-        "d": 580159526,
+        "d": 580289445,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1183,7 +1183,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 8741070,
+        "u": 8775483,
         "user": "user8008"
     },
     {
@@ -1202,7 +1202,7 @@
         "user": "user8009"
     },
     {
-        "d": 685600,
+        "d": 11537260,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1213,7 +1213,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 79032,
+        "u": 113082,
         "user": "user8010"
     },
     {
@@ -1232,7 +1232,7 @@
         "user": "user8011"
     },
     {
-        "d": 0,
+        "d": 5135,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1243,11 +1243,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 941,
         "user": "user8012"
     },
     {
-        "d": 298833606,
+        "d": 988052452,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1258,11 +1258,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 4672995,
+        "u": 20942507,
         "user": "user8013"
     },
     {
-        "d": 573034888,
+        "d": 573045034,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1273,7 +1273,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 14031527,
+        "u": 14038375,
         "user": "user8014"
     },
     {
@@ -1292,7 +1292,7 @@
         "user": "user8015"
     },
     {
-        "d": 472597779,
+        "d": 1532074100,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1303,11 +1303,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 7610144,
+        "u": 21960167,
         "user": "user8016"
     },
     {
-        "d": 0,
+        "d": 1064143249,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1318,11 +1318,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 6021655,
         "user": "user8017"
     },
     {
-        "d": 138899558,
+        "d": 139028237,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1333,11 +1333,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2569786,
+        "u": 2592147,
         "user": "user8018"
     },
     {
-        "d": 0,
+        "d": 313930,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1347,8 +1347,8 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
-        "u": 0,
+        "transfer_enable": 0,
+        "u": 104070,
         "user": "user8019"
     },
     {
@@ -1367,7 +1367,7 @@
         "user": "user8020"
     },
     {
-        "d": 2955015,
+        "d": 140631134,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1378,7 +1378,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 856483,
+        "u": 2980484,
         "user": "user8021"
     },
     {
@@ -1397,7 +1397,7 @@
         "user": "user8022"
     },
     {
-        "d": 205238780,
+        "d": 336052218,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1408,11 +1408,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 172193,
+        "u": 515317,
         "user": "user8023"
     },
     {
-        "d": 251017,
+        "d": 4333046,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1423,11 +1423,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1033,
+        "u": 156593,
         "user": "user8025"
     },
     {
-        "d": 0,
+        "d": 1067570,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1438,11 +1438,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 93483,
         "user": "user8026"
     },
     {
-        "d": 23013142,
+        "d": 135130421,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1453,7 +1453,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 942287,
+        "u": 5044673,
         "user": "user8027"
     },
     {
@@ -1487,7 +1487,7 @@
         "user": "user8029"
     },
     {
-        "d": 0,
+        "d": 187399,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1498,7 +1498,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 28602,
         "user": "user8030"
     },
     {
@@ -1517,7 +1517,7 @@
         "user": "user8031"
     },
     {
-        "d": 22419322,
+        "d": 25324261,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1528,11 +1528,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 636771,
+        "u": 1134288,
         "user": "user8032"
     },
     {
-        "d": 18696,
+        "d": 230764,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1543,7 +1543,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2847,
+        "u": 33959,
         "user": "user8033"
     },
     {
@@ -1562,7 +1562,7 @@
         "user": "user8034"
     },
     {
-        "d": 3816316,
+        "d": 4184810,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1573,7 +1573,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 552960,
+        "u": 642578,
         "user": "user8035"
     },
     {
@@ -1622,7 +1622,7 @@
         "user": "user8038"
     },
     {
-        "d": 6468,
+        "d": 77201,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1633,7 +1633,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 597,
+        "u": 12777,
         "user": "user8039"
     },
     {
@@ -1648,7 +1648,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 480,
         "user": "user8040"
     },
     {
@@ -1682,7 +1682,7 @@
         "user": "user8042"
     },
     {
-        "d": 0,
+        "d": 13517406,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1693,7 +1693,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 342667,
         "user": "user8043"
     },
     {
@@ -1742,7 +1742,7 @@
         "user": "user9000"
     },
     {
-        "d": 0,
+        "d": 15868,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1753,11 +1753,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1922,
         "user": "user9001"
     },
     {
-        "d": 0,
+        "d": 137138317,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1768,7 +1768,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 3036852,
         "user": "user9002"
     },
     {
@@ -1817,7 +1817,7 @@
         "user": "user9006"
     },
     {
-        "d": 0,
+        "d": 636805298,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1828,11 +1828,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 29434002,
         "user": "user9007"
     },
     {
-        "d": 167769291,
+        "d": 179872119,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1843,7 +1843,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 552108,
+        "u": 701226,
         "user": "user9008"
     },
     {
@@ -1862,7 +1862,7 @@
         "user": "user9009"
     },
     {
-        "d": 0,
+        "d": 77823800,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1873,11 +1873,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 5039391,
         "user": "user9010"
     },
     {
-        "d": 0,
+        "d": 173112810,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1888,7 +1888,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1244572,
         "user": "user9011"
     },
     {
@@ -1907,7 +1907,7 @@
         "user": "user9012"
     },
     {
-        "d": 0,
+        "d": 1128531,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1918,7 +1918,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 284,
+        "u": 214098,
         "user": "user9013"
     },
     {
@@ -1952,7 +1952,7 @@
         "user": "user9016"
     },
     {
-        "d": 3060434,
+        "d": 457328024,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1963,7 +1963,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 45682,
+        "u": 494823,
         "user": "user9017"
     },
     {
@@ -1982,7 +1982,7 @@
         "user": "user9018"
     },
     {
-        "d": 44884366,
+        "d": 127670667,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1993,7 +1993,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1652915,
+        "u": 3343037,
         "user": "user9019"
     },
     {
@@ -2042,7 +2042,7 @@
         "user": "user9022"
     },
     {
-        "d": 79488131,
+        "d": 147968163,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2053,11 +2053,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 773842,
+        "u": 1639418,
         "user": "user9023"
     },
     {
-        "d": 0,
+        "d": 871807,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2068,7 +2068,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 121079,
         "user": "user9024"
     },
     {
@@ -2087,7 +2087,7 @@
         "user": "user9025"
     },
     {
-        "d": 0,
+        "d": 50964877,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2098,11 +2098,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 2456812,
         "user": "user9026"
     },
     {
-        "d": 0,
+        "d": 4922,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2113,7 +2113,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 752,
         "user": "user9027"
     },
     {
@@ -2177,7 +2177,7 @@
         "user": "user9031"
     },
     {
-        "d": 82568319,
+        "d": 85023091,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2188,11 +2188,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2567391,
+        "u": 2710036,
         "user": "user9032"
     },
     {
-        "d": 22116451,
+        "d": 26223316,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2203,11 +2203,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 477603,
+        "u": 735265,
         "user": "user9034"
     },
     {
-        "d": 13082,
+        "d": 9177935,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2218,11 +2218,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1569,
+        "u": 613820,
         "user": "user9035"
     },
     {
-        "d": 259109321,
+        "d": 259727394,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2233,11 +2233,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 5202949,
+        "u": 5546937,
         "user": "user9036"
     },
     {
-        "d": 4012491726,
+        "d": 4012650764,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2248,7 +2248,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 12471206,
+        "u": 12493968,
         "user": "user9037"
     },
     {
@@ -2297,7 +2297,7 @@
         "user": "user9041"
     },
     {
-        "d": 0,
+        "d": 34422736,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2308,11 +2308,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 287689,
         "user": "user9043"
     },
     {
-        "d": 0,
+        "d": 2084294,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2323,7 +2323,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 13718,
         "user": "user9045"
     },
     {
@@ -2342,7 +2342,7 @@
         "user": "user9046"
     },
     {
-        "d": 311405182,
+        "d": 543732650,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2353,7 +2353,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3681297,
+        "u": 5383188,
         "user": "user8318"
     },
     {
@@ -2387,7 +2387,7 @@
         "user": "user8168"
     },
     {
-        "d": 2007394917,
+        "d": 2070359513,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2398,7 +2398,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 27345458,
+        "u": 27889619,
         "user": "user8169"
     },
     {
@@ -2432,7 +2432,7 @@
         "user": "user8178"
     },
     {
-        "d": 0,
+        "d": 116346382,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2443,7 +2443,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1353072,
         "user": "user8183"
     },
     {
@@ -2552,7 +2552,7 @@
         "user": "user8212"
     },
     {
-        "d": 0,
+        "d": 83115505,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2563,7 +2563,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 164324,
         "user": "user8216"
     },
     {
@@ -2612,7 +2612,7 @@
         "user": "user8222"
     },
     {
-        "d": 9514809,
+        "d": 10050309,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2623,11 +2623,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 138205,
+        "u": 235398,
         "user": "user8024"
     },
     {
-        "d": 1486305,
+        "d": 2946301,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2638,7 +2638,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 635808,
+        "u": 982610,
         "user": "user8227"
     },
     {
@@ -2657,7 +2657,7 @@
         "user": "user8229"
     },
     {
-        "d": 0,
+        "d": 4860,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2668,11 +2668,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 945,
         "user": "user8231"
     },
     {
-        "d": 4853040815,
+        "d": 5106427036,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2683,7 +2683,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 4430248,
+        "u": 5928497,
         "user": "user8239"
     },
     {
@@ -2717,7 +2717,7 @@
         "user": "user8251"
     },
     {
-        "d": 0,
+        "d": 73122070,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2728,11 +2728,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 2581790,
         "user": "user8252"
     },
     {
-        "d": 0,
+        "d": 634539,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2743,7 +2743,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 305052,
         "user": "user8253"
     },
     {
@@ -2762,7 +2762,7 @@
         "user": "user8254"
     },
     {
-        "d": 0,
+        "d": 476247160,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2773,7 +2773,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1988726,
         "user": "user8255"
     },
     {
@@ -2807,7 +2807,7 @@
         "user": "user8257"
     },
     {
-        "d": 1456964423,
+        "d": 1538645607,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2818,11 +2818,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 33101233,
+        "u": 33700105,
         "user": "user8258"
     },
     {
-        "d": 2968564,
+        "d": 27612908,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2832,8 +2832,8 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
-        "u": 87428,
+        "transfer_enable": 0,
+        "u": 1270900,
         "user": "user8262"
     },
     {
@@ -2852,7 +2852,7 @@
         "user": "user8265"
     },
     {
-        "d": 23645,
+        "d": 32070,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2863,7 +2863,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3446,
+        "u": 4716,
         "user": "user8268"
     },
     {
@@ -2927,7 +2927,7 @@
         "user": "user8272"
     },
     {
-        "d": 0,
+        "d": 108516489,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2938,11 +2938,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 453762,
         "user": "user8276"
     },
     {
-        "d": 0,
+        "d": 12992368,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2953,7 +2953,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 714225,
         "user": "user8280"
     },
     {
@@ -2987,7 +2987,7 @@
         "user": "user8285"
     },
     {
-        "d": 314,
+        "d": 62668743,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -2998,7 +2998,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 994,
+        "u": 1478913,
         "user": "user8287"
     },
     {
@@ -3047,7 +3047,7 @@
         "user": "user8297"
     },
     {
-        "d": 67766579,
+        "d": 85424245,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3058,7 +3058,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 834141,
+        "u": 1436494,
         "user": "user8299"
     },
     {
@@ -3092,7 +3092,7 @@
         "user": "user8307"
     },
     {
-        "d": 329751123,
+        "d": 329778197,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3103,11 +3103,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2287264,
+        "u": 2290560,
         "user": "user8308"
     },
     {
-        "d": 0,
+        "d": 18500375,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3118,7 +3118,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 631901,
         "user": "user8309"
     },
     {
@@ -3152,7 +3152,7 @@
         "user": "user8311"
     },
     {
-        "d": 0,
+        "d": 8852703918,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3163,11 +3163,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 61393308,
         "user": "user8312"
     },
     {
-        "d": 1296941430,
+        "d": 1369701323,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3178,7 +3178,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 95291361,
+        "u": 108552080,
         "user": "user9233"
     },
     {
@@ -3197,7 +3197,7 @@
         "user": "user9014"
     },
     {
-        "d": 0,
+        "d": 33148796,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3208,11 +3208,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1656811,
         "user": "user5510"
     },
     {
-        "d": 525,
+        "d": 26397326,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3223,7 +3223,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 336,
+        "u": 21090220,
         "user": "user5518"
     },
     {
@@ -3257,7 +3257,7 @@
         "user": "user5531"
     },
     {
-        "d": 0,
+        "d": 8985460,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3268,7 +3268,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 200,
+        "u": 447256,
         "user": "user5536"
     },
     {
@@ -3287,7 +3287,7 @@
         "user": "user5555"
     },
     {
-        "d": 0,
+        "d": 75089509,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3298,11 +3298,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 2046264,
         "user": "user5560"
     },
     {
-        "d": 772435475,
+        "d": 1111785461,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3313,7 +3313,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 78447566,
+        "u": 96059464,
         "user": "user5569"
     },
     {
@@ -3332,7 +3332,7 @@
         "user": "user5576"
     },
     {
-        "d": 913912,
+        "d": 918104,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3343,11 +3343,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 110746,
+        "u": 111048,
         "user": "user5582"
     },
     {
-        "d": 0,
+        "d": 1834820,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3358,11 +3358,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 345947,
         "user": "user5592"
     },
     {
-        "d": 311613159,
+        "d": 313268696,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3373,7 +3373,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2964430,
+        "u": 3067018,
         "user": "user5604"
     },
     {
@@ -3452,7 +3452,7 @@
         "user": "user5640"
     },
     {
-        "d": 0,
+        "d": 4323545,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3463,7 +3463,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 139660,
         "user": "user5643"
     },
     {
@@ -3482,7 +3482,7 @@
         "user": "user5658"
     },
     {
-        "d": 0,
+        "d": 120003969,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3493,11 +3493,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1305099,
         "user": "user5659"
     },
     {
-        "d": 0,
+        "d": 5171241091,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3508,11 +3508,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 2379757,
         "user": "user5666"
     },
     {
-        "d": 0,
+        "d": 13249,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3523,7 +3523,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 3020,
         "user": "user5670"
     },
     {
@@ -3542,7 +3542,7 @@
         "user": "user5671"
     },
     {
-        "d": 99523301,
+        "d": 139570610,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3553,11 +3553,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 9868354,
+        "u": 13933113,
         "user": "user5675"
     },
     {
-        "d": 2680159592,
+        "d": 2683047082,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3568,11 +3568,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 103205299,
+        "u": 103970253,
         "user": "user5680"
     },
     {
-        "d": 378498674,
+        "d": 379167289,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3583,11 +3583,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 4842007,
+        "u": 4862372,
         "user": "user5681"
     },
     {
-        "d": 0,
+        "d": 8964276,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3598,11 +3598,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 540727,
         "user": "user5685"
     },
     {
-        "d": 504795790,
+        "d": 505471388,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3613,7 +3613,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1754618,
+        "u": 1946474,
         "user": "user5687"
     },
     {
@@ -3632,7 +3632,7 @@
         "user": "user5689"
     },
     {
-        "d": 0,
+        "d": 75752617,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3642,12 +3642,12 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
-        "u": 0,
+        "transfer_enable": 0,
+        "u": 1179046,
         "user": "user5692"
     },
     {
-        "d": 0,
+        "d": 60326018,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3658,7 +3658,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 711245,
         "user": "user5693"
     },
     {
@@ -3722,7 +3722,7 @@
         "user": "user5700"
     },
     {
-        "d": 0,
+        "d": 11613660,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3733,7 +3733,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 276049,
         "user": "user5701"
     },
     {
@@ -3752,7 +3752,7 @@
         "user": "user5702"
     },
     {
-        "d": 0,
+        "d": 34521630,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3763,7 +3763,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1112364,
         "user": "user5706"
     },
     {
@@ -3782,7 +3782,7 @@
         "user": "user5707"
     },
     {
-        "d": 0,
+        "d": 140798284,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3793,7 +3793,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1184034,
         "user": "user5710"
     },
     {
@@ -3812,7 +3812,7 @@
         "user": "user5713"
     },
     {
-        "d": 636151435,
+        "d": 643331280,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3823,7 +3823,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 24634371,
+        "u": 24788787,
         "user": "user5717"
     },
     {
@@ -3887,7 +3887,7 @@
         "user": "user5728"
     },
     {
-        "d": 0,
+        "d": 12404517,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3898,11 +3898,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 594066,
         "user": "user5732"
     },
     {
-        "d": 0,
+        "d": 509046,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3913,7 +3913,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 188983,
         "user": "user5733"
     },
     {
@@ -3932,7 +3932,7 @@
         "user": "user5737"
     },
     {
-        "d": 109823717,
+        "d": 147102237,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3943,7 +3943,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 5630011,
+        "u": 6497695,
         "user": "user5753"
     },
     {
@@ -3962,7 +3962,7 @@
         "user": "user5775"
     },
     {
-        "d": 14564,
+        "d": 216565967,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3973,11 +3973,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3794,
+        "u": 3996569,
         "user": "user5780"
     },
     {
-        "d": 0,
+        "d": 119855519,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3988,7 +3988,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 6269329,
         "user": "user5783"
     },
     {
@@ -4037,7 +4037,7 @@
         "user": "user5795"
     },
     {
-        "d": 10938,
+        "d": 11922,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4048,11 +4048,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2945,
+        "u": 3245,
         "user": "user5798"
     },
     {
-        "d": 0,
+        "d": 73758671,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4063,7 +4063,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1186834,
         "user": "user5803"
     },
     {
@@ -4127,7 +4127,7 @@
         "user": "user5811"
     },
     {
-        "d": 26795622,
+        "d": 27393436,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4138,7 +4138,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 225791,
+        "u": 287903,
         "user": "user5816"
     },
     {
@@ -4187,7 +4187,7 @@
         "user": "user5832"
     },
     {
-        "d": 252777210,
+        "d": 715300593,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4198,11 +4198,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1633545,
+        "u": 4369338,
         "user": "user5836"
     },
     {
-        "d": 0,
+        "d": 161934664,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4213,7 +4213,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 26487735,
         "user": "user5837"
     },
     {
@@ -4292,7 +4292,7 @@
         "user": "user5850"
     },
     {
-        "d": 61937131,
+        "d": 61953068,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4303,7 +4303,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 4045925,
+        "u": 4050588,
         "user": "user5853"
     },
     {
@@ -4457,7 +4457,7 @@
         "user": "user5636"
     },
     {
-        "d": 189966174,
+        "d": 347947501,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4468,11 +4468,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 5845120,
+        "u": 11371849,
         "user": "user5880"
     },
     {
-        "d": 58342108,
+        "d": 61049267,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4483,7 +4483,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1440521,
+        "u": 1680188,
         "user": "user5881"
     },
     {
@@ -4497,7 +4497,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 0,
         "user": "user5882"
     },
@@ -4607,7 +4607,7 @@
         "user": "user5911"
     },
     {
-        "d": 0,
+        "d": 274863438,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4618,11 +4618,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1737298,
         "user": "user5912"
     },
     {
-        "d": 0,
+        "d": 2338962,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4633,7 +4633,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 200,
+        "u": 150758,
         "user": "user5916"
     },
     {
@@ -4682,7 +4682,7 @@
         "user": "user5925"
     },
     {
-        "d": 0,
+        "d": 19621346,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4693,7 +4693,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 464156,
         "user": "user5927"
     },
     {
@@ -4757,7 +4757,7 @@
         "user": "user5939"
     },
     {
-        "d": 48784567,
+        "d": 81258994,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4768,7 +4768,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2254483,
+        "u": 2801141,
         "user": "user5940"
     },
     {
@@ -4817,7 +4817,7 @@
         "user": "user5955"
     },
     {
-        "d": 0,
+        "d": 62082,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4828,11 +4828,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 11718,
         "user": "user5958"
     },
     {
-        "d": 635838,
+        "d": 3394496,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4843,11 +4843,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3474383,
+        "u": 4019317,
         "user": "user5962"
     },
     {
-        "d": 66527178,
+        "d": 122645579,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4858,11 +4858,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1020465,
+        "u": 2705250,
         "user": "user5966"
     },
     {
-        "d": 9095317,
+        "d": 201276784,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4873,7 +4873,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 571470,
+        "u": 1533108,
         "user": "user5967"
     },
     {
@@ -4982,7 +4982,7 @@
         "user": "user5992"
     },
     {
-        "d": 18332736,
+        "d": 18442727,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4993,11 +4993,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 543294,
+        "u": 602526,
         "user": "user5995"
     },
     {
-        "d": 128352,
+        "d": 17452680,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5008,7 +5008,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 9357,
+        "u": 244555,
         "user": "user5997"
     },
     {
@@ -5037,7 +5037,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 460941,
         "user": "user6051"
     },
@@ -5057,7 +5057,7 @@
         "user": "user6052"
     },
     {
-        "d": 1058343,
+        "d": 10365824,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5068,11 +5068,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3033641,
+        "u": 161182014,
         "user": "user6053"
     },
     {
-        "d": 2705415838,
+        "d": 2707311578,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5083,7 +5083,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 499337799,
+        "u": 508791271,
         "user": "user6054"
     },
     {
@@ -5172,7 +5172,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 0,
         "user": "user6061"
     },
@@ -5192,7 +5192,7 @@
         "user": "user6062"
     },
     {
-        "d": 0,
+        "d": 1989547,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5203,7 +5203,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 69157,
         "user": "user6063"
     },
     {
@@ -5267,7 +5267,7 @@
         "user": "user6068"
     },
     {
-        "d": 121153830,
+        "d": 134542420,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5278,7 +5278,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3575763,
+        "u": 4640144,
         "user": "user6069"
     },
     {
@@ -5297,7 +5297,7 @@
         "user": "user6070"
     },
     {
-        "d": 43150,
+        "d": 16213942,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5307,8 +5307,8 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
-        "u": 4376,
+        "transfer_enable": 0,
+        "u": 1259471,
         "user": "user6075"
     },
     {
@@ -5372,7 +5372,7 @@
         "user": "user6090"
     },
     {
-        "d": 0,
+        "d": 109184695,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5383,7 +5383,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 291810,
         "user": "user6092"
     },
     {
@@ -5427,12 +5427,12 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 1601460,
         "user": "user6103"
     },
     {
-        "d": 0,
+        "d": 1685536,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5443,11 +5443,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 148507,
         "user": "user6108"
     },
     {
-        "d": 116933580,
+        "d": 203687068,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5458,7 +5458,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3527062,
+        "u": 5937757,
         "user": "user6111"
     },
     {
@@ -5507,7 +5507,7 @@
         "user": "user6118"
     },
     {
-        "d": 1090,
+        "d": 94631038,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5517,12 +5517,12 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
-        "u": 196,
+        "transfer_enable": 0,
+        "u": 533237,
         "user": "user6123"
     },
     {
-        "d": 0,
+        "d": 1215274950,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5533,7 +5533,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 891749,
         "user": "user6124"
     },
     {
@@ -5548,11 +5548,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 480,
         "user": "user6128"
     },
     {
-        "d": 0,
+        "d": 966513,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5562,12 +5562,12 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
-        "u": 0,
+        "transfer_enable": 0,
+        "u": 219031,
         "user": "user6132"
     },
     {
-        "d": 0,
+        "d": 34628533,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5578,11 +5578,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1003560,
         "user": "user6134"
     },
     {
-        "d": 21633,
+        "d": 20847775,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5593,7 +5593,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 5108,
+        "u": 510348,
         "user": "user6137"
     },
     {
@@ -5612,7 +5612,7 @@
         "user": "user6139"
     },
     {
-        "d": 280975119,
+        "d": 282185904,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5623,7 +5623,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 37147356,
+        "u": 37231457,
         "user": "user6147"
     },
     {
@@ -5642,7 +5642,7 @@
         "user": "user6153"
     },
     {
-        "d": 0,
+        "d": 94444743,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5653,7 +5653,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 2310015,
         "user": "user6154"
     },
     {
@@ -5702,7 +5702,7 @@
         "user": "user6167"
     },
     {
-        "d": 0,
+        "d": 7112,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5713,7 +5713,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1242,
         "user": "user6170"
     },
     {
@@ -5732,7 +5732,7 @@
         "user": "user6171"
     },
     {
-        "d": 0,
+        "d": 343880,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5743,11 +5743,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 30362,
         "user": "user6174"
     },
     {
-        "d": 51161,
+        "d": 2847872,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5758,11 +5758,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 887,
+        "u": 360570,
         "user": "user6176"
     },
     {
-        "d": 0,
+        "d": 1147735162,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5773,7 +5773,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 100253045,
         "user": "user6178"
     },
     {
@@ -5792,7 +5792,7 @@
         "user": "user6181"
     },
     {
-        "d": 3615040754,
+        "d": 3661070355,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5803,11 +5803,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 26718246,
+        "u": 28251442,
         "user": "user6183"
     },
     {
-        "d": 87436919,
+        "d": 196657583,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5818,7 +5818,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2537959,
+        "u": 8747602,
         "user": "user6186"
     },
     {
@@ -5852,7 +5852,7 @@
         "user": "user6193"
     },
     {
-        "d": 0,
+        "d": 233160795,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5863,11 +5863,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 10525123,
         "user": "user6197"
     },
     {
-        "d": 0,
+        "d": 395285,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5877,8 +5877,8 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
-        "u": 0,
+        "transfer_enable": 0,
+        "u": 28161,
         "user": "user6198"
     },
     {
@@ -5897,7 +5897,7 @@
         "user": "user6202"
     },
     {
-        "d": 115348794,
+        "d": 116978460,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5908,11 +5908,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 694726,
+        "u": 931473,
         "user": "user6207"
     },
     {
-        "d": 93741944,
+        "d": 170235746,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5923,7 +5923,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2314515,
+        "u": 2848332,
         "user": "user6208"
     },
     {
@@ -5957,7 +5957,7 @@
         "user": "user6216"
     },
     {
-        "d": 0,
+        "d": 215892,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5968,11 +5968,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 51187,
         "user": "user6217"
     },
     {
-        "d": 148630956,
+        "d": 253971945,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5983,11 +5983,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 9873479,
+        "u": 11050819,
         "user": "user6218"
     },
     {
-        "d": 200104351,
+        "d": 208863728,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5998,7 +5998,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2780155,
+        "u": 4582467,
         "user": "user6222"
     },
     {
@@ -6047,7 +6047,7 @@
         "user": "user6228"
     },
     {
-        "d": 199962658,
+        "d": 222884047,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6058,7 +6058,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 757789,
+        "u": 2626683,
         "user": "user6232"
     },
     {
@@ -6092,7 +6092,7 @@
         "user": "user6246"
     },
     {
-        "d": 199995659,
+        "d": 635184255,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6103,7 +6103,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 806749,
+        "u": 1374214,
         "user": "user6248"
     },
     {
@@ -6137,7 +6137,7 @@
         "user": "user6257"
     },
     {
-        "d": 0,
+        "d": 50598,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6148,11 +6148,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 14574,
         "user": "user6262"
     },
     {
-        "d": 294578,
+        "d": 27355899,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6163,7 +6163,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 60728,
+        "u": 1921199,
         "user": "user6266"
     },
     {
@@ -6182,7 +6182,7 @@
         "user": "user6267"
     },
     {
-        "d": 0,
+        "d": 8171034,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6193,7 +6193,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 2578165,
         "user": "user6268"
     },
     {
@@ -6257,7 +6257,7 @@
         "user": "user6288"
     },
     {
-        "d": 8560437,
+        "d": 10453166,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6268,7 +6268,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 591358,
+        "u": 624490,
         "user": "user6289"
     },
     {
@@ -6302,7 +6302,7 @@
         "user": "user6305"
     },
     {
-        "d": 0,
+        "d": 4010835,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6313,7 +6313,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 201062,
         "user": "user6308"
     },
     {
@@ -6362,7 +6362,7 @@
         "user": "user6317"
     },
     {
-        "d": 0,
+        "d": 115590,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6373,7 +6373,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 5723,
         "user": "user6321"
     },
     {
@@ -6437,7 +6437,7 @@
         "user": "user6334"
     },
     {
-        "d": 0,
+        "d": 1175884,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6448,7 +6448,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 52008,
         "user": "user6338"
     },
     {
@@ -6467,7 +6467,7 @@
         "user": "user6343"
     },
     {
-        "d": 0,
+        "d": 18710,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6478,11 +6478,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 5537,
         "user": "user6344"
     },
     {
-        "d": 0,
+        "d": 281721,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6493,11 +6493,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 53933,
         "user": "user6348"
     },
     {
-        "d": 779019026,
+        "d": 851667577,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6508,11 +6508,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 25770439,
+        "u": 26423045,
         "user": "user6352"
     },
     {
-        "d": 704924,
+        "d": 6038975,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6523,11 +6523,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 17239,
+        "u": 222092,
         "user": "user6356"
     },
     {
-        "d": 0,
+        "d": 123314093,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6538,7 +6538,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 23738770,
         "user": "user6360"
     },
     {
@@ -6587,7 +6587,7 @@
         "user": "user6368"
     },
     {
-        "d": 57194,
+        "d": 1485787,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6598,7 +6598,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 59680,
+        "u": 63487,
         "user": "user6372"
     },
     {
@@ -6617,7 +6617,7 @@
         "user": "user6373"
     },
     {
-        "d": 0,
+        "d": 666373,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6628,7 +6628,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 74481,
         "user": "user6377"
     },
     {
@@ -6717,12 +6717,12 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 855797,
         "user": "user6393"
     },
     {
-        "d": 0,
+        "d": 107796024,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6733,7 +6733,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 100,
+        "u": 1233239,
         "user": "user6398"
     },
     {
@@ -6767,7 +6767,7 @@
         "user": "user6409"
     },
     {
-        "d": 0,
+        "d": 114948,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6778,7 +6778,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 20591,
         "user": "user6416"
     },
     {
@@ -6792,7 +6792,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 986990,
         "user": "user6420"
     },
@@ -6842,7 +6842,7 @@
         "user": "user6427"
     },
     {
-        "d": 0,
+        "d": 348149,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6853,11 +6853,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 40988,
         "user": "user6431"
     },
     {
-        "d": 293853457,
+        "d": 1206355924,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6868,7 +6868,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1166344,
+        "u": 12164648,
         "user": "user6436"
     },
     {
@@ -6917,7 +6917,7 @@
         "user": "user6445"
     },
     {
-        "d": 38509272,
+        "d": 166624419,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6928,7 +6928,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 62212254720,
-        "u": 6350774,
+        "u": 7750073,
         "user": "user999"
     },
     {
@@ -6947,7 +6947,7 @@
         "user": "user6453"
     },
     {
-        "d": 0,
+        "d": 223039292,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6958,7 +6958,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 4122274,
         "user": "user6458"
     },
     {
@@ -7022,7 +7022,7 @@
         "user": "user6472"
     },
     {
-        "d": 81634455,
+        "d": 128016546,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7033,11 +7033,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2612878,
+        "u": 4041243,
         "user": "user6477"
     },
     {
-        "d": 0,
+        "d": 125221,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7048,11 +7048,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 41110,
         "user": "user6479"
     },
     {
-        "d": 14765,
+        "d": 6246759,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7063,7 +7063,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3029,
+        "u": 392976,
         "user": "user6480"
     },
     {
@@ -7127,7 +7127,7 @@
         "user": "user6491"
     },
     {
-        "d": 6487520,
+        "d": 11693037,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7138,11 +7138,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 68316,
+        "u": 250796,
         "user": "user6495"
     },
     {
-        "d": 2674053,
+        "d": 471600997,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7153,7 +7153,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 162088,
+        "u": 302082,
         "user": "user6498"
     },
     {
@@ -7202,7 +7202,7 @@
         "user": "user6507"
     },
     {
-        "d": 0,
+        "d": 308293,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7213,7 +7213,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 115168,
         "user": "user6509"
     },
     {
@@ -7232,7 +7232,7 @@
         "user": "user6516"
     },
     {
-        "d": 0,
+        "d": 16941667,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7243,11 +7243,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 358474,
         "user": "user6518"
     },
     {
-        "d": 0,
+        "d": 43136207,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7258,7 +7258,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 114268722,
         "user": "user6521"
     },
     {
@@ -7277,7 +7277,7 @@
         "user": "user6525"
     },
     {
-        "d": 24335521,
+        "d": 111935644,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7288,7 +7288,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 195448,
+        "u": 5567320,
         "user": "user6528"
     },
     {
@@ -7307,7 +7307,7 @@
         "user": "user6533"
     },
     {
-        "d": 0,
+        "d": 30177298,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7318,7 +7318,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 3029071,
         "user": "user6535"
     },
     {
@@ -7337,7 +7337,7 @@
         "user": "user6537"
     },
     {
-        "d": 0,
+        "d": 70926098,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7348,7 +7348,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1156387,
         "user": "user6542"
     },
     {
@@ -7367,7 +7367,7 @@
         "user": "user6547"
     },
     {
-        "d": 0,
+        "d": 315382325,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7378,7 +7378,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1784835,
         "user": "user6552"
     },
     {
@@ -7408,7 +7408,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 200,
         "user": "user6560"
     },
     {
@@ -7422,12 +7422,12 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 0,
         "user": "user6561"
     },
     {
-        "d": 0,
+        "d": 15380005,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7438,7 +7438,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 358522,
         "user": "user6565"
     },
     {
@@ -7487,7 +7487,7 @@
         "user": "user6572"
     },
     {
-        "d": 0,
+        "d": 49682,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7498,11 +7498,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 12514,
         "user": "user6573"
     },
     {
-        "d": 139196763,
+        "d": 212146218,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7513,7 +7513,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 28775450,
+        "u": 43995611,
         "user": "user6574"
     },
     {
@@ -7532,7 +7532,7 @@
         "user": "user6577"
     },
     {
-        "d": 0,
+        "d": 10308791,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7543,11 +7543,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 324583,
         "user": "user6579"
     },
     {
-        "d": 132765998,
+        "d": 318593091,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7558,11 +7558,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 14462231,
+        "u": 16773483,
         "user": "user6583"
     },
     {
-        "d": 21717803,
+        "d": 69921687,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7573,7 +7573,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 353892,
+        "u": 6599547,
         "user": "user6587"
     },
     {
@@ -7592,7 +7592,7 @@
         "user": "user6591"
     },
     {
-        "d": 0,
+        "d": 45885663,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7603,11 +7603,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 1947780,
         "user": "user6596"
     },
     {
-        "d": 52380336,
+        "d": 52394709,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7618,7 +7618,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1145569,
+        "u": 1148208,
         "user": "user6601"
     },
     {
@@ -7637,7 +7637,7 @@
         "user": "user6603"
     },
     {
-        "d": 0,
+        "d": 114250349,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7648,11 +7648,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 846063,
         "user": "user6607"
     },
     {
-        "d": 19127950,
+        "d": 21530660,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7663,11 +7663,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 3202361,
+        "u": 3409898,
         "user": "user6611"
     },
     {
-        "d": 0,
+        "d": 4688,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7678,7 +7678,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 2273,
         "user": "user6616"
     },
     {
@@ -7697,7 +7697,7 @@
         "user": "user6621"
     },
     {
-        "d": 0,
+        "d": 12076093,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7708,7 +7708,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 748214,
         "user": "user6624"
     },
     {
@@ -7727,7 +7727,7 @@
         "user": "user6627"
     },
     {
-        "d": 123601,
+        "d": 156377,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7738,7 +7738,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 24065,
+        "u": 26865,
         "user": "user6628"
     },
     {
@@ -7757,7 +7757,7 @@
         "user": "user6633"
     },
     {
-        "d": 19751039,
+        "d": 91335939,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7768,11 +7768,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1064491,
+        "u": 4086910,
         "user": "user6636"
     },
     {
-        "d": 463508,
+        "d": 130694440,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7783,7 +7783,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 112673,
+        "u": 1770331,
         "user": "user6637"
     },
     {
@@ -7802,7 +7802,7 @@
         "user": "user6642"
     },
     {
-        "d": 0,
+        "d": 1092480,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7813,7 +7813,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 158395,
         "user": "user6643"
     },
     {
@@ -7847,7 +7847,7 @@
         "user": "user6648"
     },
     {
-        "d": 159013,
+        "d": 12291682,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7858,7 +7858,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 11994,
+        "u": 5984322,
         "user": "user6652"
     },
     {
@@ -7877,7 +7877,7 @@
         "user": "user6653"
     },
     {
-        "d": 0,
+        "d": 949199,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7888,7 +7888,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 88267,
         "user": "user6656"
     },
     {
@@ -7952,7 +7952,7 @@
         "user": "user6667"
     },
     {
-        "d": 822042990,
+        "d": 822078766,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7963,11 +7963,11 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 47575077,
+        "u": 47592691,
         "user": "user6670"
     },
     {
-        "d": 2941260,
+        "d": 116848587,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7978,7 +7978,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 325197,
+        "u": 730651,
         "user": "user6671"
     },
     {
@@ -8012,7 +8012,7 @@
         "user": "user6681"
     },
     {
-        "d": 0,
+        "d": 1873446,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -8023,7 +8023,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 48840,
         "user": "user6280"
     },
     {
