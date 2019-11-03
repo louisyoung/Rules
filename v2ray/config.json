@@ -480,11 +480,6 @@
                     "alterId": 99
                 },
                 {
-                    "id": "89f65da1-60a9-feb1-d676-ba74ce623300",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "5b7c893d-a7d9-1642-627f-ddb7d18c2c2f",
                     "level": 1,
                     "alterId": 99
@@ -1039,11 +1034,6 @@
 					},
 					{
 						"id": "eb746a86-c540-42bd-80ec-4094f147394d",
-						"level": 1,
-						"alterId": 99
-					},
-					{
-						"id": "89f65da1-60a9-feb1-d676-ba74ce623300",
 						"level": 1,
 						"alterId": 99
 					},
