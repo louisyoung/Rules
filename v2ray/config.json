@@ -548,11 +548,6 @@
                     "id": "08519122-29da-0f8f-9cf0-0c3ad632ba97",
                     "level": 1,
                     "alterId": 99
-                },
-                {
-                    "id": "156460e1-8ac3-5849-7638-7ba947478f64",
-                    "level": 1,
-                    "alterId": 99
                 }
             ]
         }
@@ -1106,11 +1101,6 @@
                         "id": "08519122-29da-0f8f-9cf0-0c3ad632ba97",
                         "level": 1,
                         "alterId": 99
-                    },
-                    {
-                        "id": "156460e1-8ac3-5849-7638-7ba947478f64",
-                        "level": 1,
-                        "alterId": 99
                     }
                 ]
             }
@@ -1270,7 +1260,7 @@
             "port": 10014,
             "settings": {
                 "method": "aes-256-cfb",
-                "password": "5687w",
+                "password": "5687wa",
                 "udp": true,
                 "level": 1
             }
