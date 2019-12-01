@@ -255,16 +255,6 @@
                     "alterId": 100
                 },
                 {
-                    "id": "20ad6a9e-2259-4f23-9f2e-2f4fa3f3dd63",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
-                    "id": "20ad6a9e-2259-4f23-9f2e-2f4fa3f3dd63",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "881e4425-3bf3-ed77-d6cf-709b37858678",
                     "level": 1,
                     "alterId": 99
@@ -491,11 +481,6 @@
                 },
 				{
                     "id": "47e8632a-6b7e-4e1c-960e-63f257049a5a",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
-                    "id": "d2f269a0-89a6-fe05-a531-fecef230c44e",
                     "level": 1,
                     "alterId": 99
                 },
@@ -1039,11 +1024,6 @@
 					},
 					{
                         "id": "47e8632a-6b7e-4e1c-960e-63f257049a5a",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
-                        "id": "d2f269a0-89a6-fe05-a531-fecef230c44e",
                         "level": 1,
                         "alterId": 99
                     },
