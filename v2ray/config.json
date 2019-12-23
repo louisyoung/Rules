@@ -224,11 +224,6 @@
                     "level": 1,
                     "alterId": 99
                 },
-                {
-                    "id": "6a28131d-4d2e-a8f2-1a3a-7447b4c22c82",
-                    "level": 1,
-                    "alterId": 99
-                },
 				{
                     "id": "40c599a7-a466-548a-26e4-7eadf4fcd88d",
                     "level": 1,
@@ -719,11 +714,6 @@
                     },
                     {
                         "id": "72a2b7f9-909b-48de-b656-6dfdc74c7af2",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
-                        "id": "6a28131d-4d2e-a8f2-1a3a-7447b4c22c82",
                         "level": 1,
                         "alterId": 99
                     },
