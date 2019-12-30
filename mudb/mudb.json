@@ -3201,7 +3201,7 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "3969w",
+        "passwd": "3969z",
         "port": 5510,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
