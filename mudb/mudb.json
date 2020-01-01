@@ -1637,7 +1637,7 @@
         "user": "user8039"
     },
     {
-        "d": 423398127,
+        "d": 423404104,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1648,7 +1648,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 7883895,
+        "u": 7887674,
         "user": "user8040"
     },
     {
@@ -4202,7 +4202,7 @@
         "user": "user5836"
     },
     {
-        "d": 161934664,
+        "d": 161946919,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -4213,7 +4213,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 26487735,
+        "u": 26491199,
         "user": "user5837"
     },
     {
@@ -6182,7 +6182,7 @@
         "user": "user6267"
     },
     {
-        "d": 8171034,
+        "d": 8201998,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -6193,7 +6193,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 2578165,
+        "u": 2586382,
         "user": "user6268"
     },
     {
@@ -8033,6 +8033,111 @@
         "obfs": "tls1.2_ticket_auth",
         "passwd": "2200w",
         "port": 6242,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "2",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 32212254720,
+        "u": 19092878,
+        "user": "user6242"
+    },
+    {
+        "d": 68681456,
+        "enable": 1,
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "2200w",
+        "port": 5511,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "2",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 32212254720,
+        "u": 19092878,
+        "user": "user6242"
+    },
+    {
+        "d": 68681456,
+        "enable": 1,
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "2200w",
+        "port": 5512,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "2",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 32212254720,
+        "u": 19092878,
+        "user": "user6242"
+    },
+    {
+        "d": 68681456,
+        "enable": 1,
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "2200w",
+        "port": 5513,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "2",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 32212254720,
+        "u": 19092878,
+        "user": "user6242"
+    },
+    {
+        "d": 68681456,
+        "enable": 1,
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "2200w",
+        "port": 5514,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "2",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 32212254720,
+        "u": 19092878,
+        "user": "user6242"
+    },
+    {
+        "d": 68681456,
+        "enable": 1,
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "2200w",
+        "port": 5515,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "2",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 32212254720,
+        "u": 19092878,
+        "user": "user6242"
+    },
+    {
+        "d": 68681456,
+        "enable": 1,
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "2200w",
+        "port": 5516,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "2",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 32212254720,
+        "u": 19092878,
+        "user": "user6242"
+    },
+    {
+        "d": 68681456,
+        "enable": 1,
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "2200w",
+        "port": 5517,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
         "speed_limit_per_con": 0,
