@@ -20,11 +20,6 @@
                     "alterId": 99
                 },
                 {
-                    "id": "57763816-62ef-4995-bf9e-bf13010d0c62",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "db46585e-fc37-4c86-b33d-e7497f4a3279",
                     "level": 1,
                     "alterId": 99
@@ -450,11 +445,6 @@
                     "alterId": 99
                 },
                 {
-                    "id": "2ea0dbf0-4b9f-25bc-a554-410cff5ca439",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "c875c137-39d3-4171-a59b-7c3c4ac1d3c6",
                     "level": 1,
                     "alterId": 99
@@ -509,11 +499,6 @@
                     },
                     {
                         "id": "07d3c119-8f6e-6941-52e4-36d31279f98d",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
-                        "id": "57763816-62ef-4995-bf9e-bf13010d0c62",
                         "level": 1,
                         "alterId": 99
                     },
@@ -953,11 +938,6 @@
                         "alterId": 99
                     },
                     {
-                        "id": "2ea0dbf0-4b9f-25bc-a554-410cff5ca439",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
                         "id": "c875c137-39d3-4171-a59b-7c3c4ac1d3c6",
                         "level": 1,
                         "alterId": 99
@@ -1150,7 +1130,7 @@
             "port": 10014,
             "settings": {
                 "method": "aes-256-cfb",
-                "password": "5687wa",
+                "password": "5687wa$",
                 "udp": true,
                 "level": 1
             }
