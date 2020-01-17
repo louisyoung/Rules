@@ -10,11 +10,6 @@
         "settings": {
             "clients": [
                 {
-                    "id": "35c16f7c-752d-491b-97c8-a0b0abae682b",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "07d3c119-8f6e-6941-52e4-36d31279f98d",
                     "level": 1,
                     "alterId": 99
@@ -115,11 +110,6 @@
                     "alterId": 99
                 },
                 {
-                    "id": "bd7bb3f6-b02d-f279-34b9-bdd0133cfb60",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "144aeb3d-583b-66e9-5666-46737ef27806",
                     "level": 1,
                     "alterId": 99
@@ -181,11 +171,6 @@
                 },
                 {
                     "id": "0c4f374f-fd2c-436f-ab92-2df47fc7ae90",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
-                    "id": "59859203-4759-48f7-b466-dc13c9ab8f25",
                     "level": 1,
                     "alterId": 99
                 },
@@ -420,11 +405,6 @@
                     "alterId": 99
                 },
                 {
-                    "id": "eb746a86-c540-42bd-80ec-4094f147394d",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "5b7c893d-a7d9-1642-627f-ddb7d18c2c2f",
                     "level": 1,
                     "alterId": 99
@@ -492,11 +472,6 @@
             "protocol": "vmess",
             "settings": {
                 "clients": [
-                    {
-                        "id": "35c16f7c-752d-491b-97c8-a0b0abae682b",
-                        "level": 1,
-                        "alterId": 99
-                    },
                     {
                         "id": "07d3c119-8f6e-6941-52e4-36d31279f98d",
                         "level": 1,
@@ -598,11 +573,6 @@
                         "alterId": 99
                     },
                     {
-                        "id": "bd7bb3f6-b02d-f279-34b9-bdd0133cfb60",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
                         "id": "144aeb3d-583b-66e9-5666-46737ef27806",
                         "level": 1,
                         "alterId": 99
@@ -664,11 +634,6 @@
                     },
                     {
                         "id": "0c4f374f-fd2c-436f-ab92-2df47fc7ae90",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
-                        "id": "59859203-4759-48f7-b466-dc13c9ab8f25",
                         "level": 1,
                         "alterId": 99
                     },
@@ -909,11 +874,6 @@
                     },
      				{
 						"id": "8c166344-d65c-4380-997b-5467f13407bc",
-						"level": 1,
-						"alterId": 99
-					},
-					{
-						"id": "eb746a86-c540-42bd-80ec-4094f147394d",
 						"level": 1,
 						"alterId": 99
 					},
