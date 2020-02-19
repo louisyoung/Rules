@@ -6171,7 +6171,7 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "260zk",
+        "passwd": "2603w",
         "port": 6267,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
