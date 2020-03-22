@@ -160,11 +160,6 @@
                     "alterId": 99
                 },
                 {
-                    "id": "d0a75ecd-1932-a672-ec20-a85b4619f024",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "f2526a44-c57f-461e-a79b-425772e268e8",
                     "level": 1,
                     "alterId": 99
@@ -270,16 +265,6 @@
                     "alterId": 99
                 },
                 {
-                    "id": "91723d2b-c80c-5183-8be1-b2ad96ba6955",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
-                    "id": "a2fd2d6f-b041-a9ae-894d-f909375a4216",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
                     "id": "142482d2-e6e6-4c74-b435-8e6209567ac6",
                     "level": 1,
                     "alterId": 99
@@ -311,11 +296,6 @@
                 },
                 {
                     "id": "e6909043-d6db-3e3d-df56-7921c1308837",
-                    "level": 1,
-                    "alterId": 99
-                },
-                {
-                    "id": "a37ed552-f18d-fd39-ebbd-6d2898094a1d",
                     "level": 1,
                     "alterId": 99
                 },
@@ -583,11 +563,6 @@
                         "alterId": 99
                     },
                     {
-                        "id": "d0a75ecd-1932-a672-ec20-a85b4619f024",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
                         "id": "f2526a44-c57f-461e-a79b-425772e268e8",
                         "level": 1,
                         "alterId": 99
@@ -703,16 +678,6 @@
                         "alterId": 99
                     },
                     {
-                        "id": "91723d2b-c80c-5183-8be1-b2ad96ba6955",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
-                        "id": "a2fd2d6f-b041-a9ae-894d-f909375a4216",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
                         "id": "142482d2-e6e6-4c74-b435-8e6209567ac6",
                         "level": 1,
                         "alterId": 99
@@ -744,11 +709,6 @@
                     },
                     {
                         "id": "e6909043-d6db-3e3d-df56-7921c1308837",
-                        "level": 1,
-                        "alterId": 99
-                    },
-                    {
-                        "id": "a37ed552-f18d-fd39-ebbd-6d2898094a1d",
                         "level": 1,
                         "alterId": 99
                     },
