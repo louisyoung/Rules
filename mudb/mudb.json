@@ -1536,7 +1536,7 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "99336",
+        "passwd": "5969k",
         "port": 8033,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
