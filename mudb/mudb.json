@@ -1817,7 +1817,7 @@
         "user": "user9006"
     },
     {
-        "d": 1018143858,
+        "d": 1018156554,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -1828,7 +1828,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 34095263,
+        "u": 34098146,
         "user": "user9007"
     },
     {
@@ -2337,7 +2337,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 370418,
         "user": "user9046"
     },
@@ -2942,7 +2942,7 @@
         "user": "user8276"
     },
     {
-        "d": 13226105,
+        "d": 13229846,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3782,7 +3782,7 @@
         "user": "user5707"
     },
     {
-        "d": 141092221,
+        "d": 141101649,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3793,7 +3793,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 1243667,
+        "u": 1244996,
         "user": "user5710"
     },
     {
@@ -4932,7 +4932,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 78377,
         "user": "user5983"
     },
@@ -5427,7 +5427,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 1604604,
         "user": "user6103"
     },
@@ -6282,7 +6282,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 0,
         "user": "user6298"
     },
@@ -6897,7 +6897,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 4514,
         "user": "user6464"
     },
@@ -7307,7 +7307,7 @@
         "user": "user6533"
     },
     {
-        "d": 191667962,
+        "d": 194992512,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7318,7 +7318,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 20781240,
+        "u": 20945045,
         "user": "user6535"
     },
     {
@@ -7587,7 +7587,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 2255430,
         "user": "user6591"
     },
@@ -8322,7 +8322,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9200"
     },
@@ -8337,7 +8337,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9201"
     },
@@ -8352,7 +8352,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19972717,
         "user": "user9202"
     },
@@ -8367,7 +8367,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9203"
     },
@@ -8382,7 +8382,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9204"
     },
@@ -8397,7 +8397,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19375022,
         "user": "user9205"
     },
@@ -8412,7 +8412,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9206"
     },
@@ -8427,7 +8427,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9207"
     },
@@ -8442,7 +8442,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9208"
     },
@@ -8457,7 +8457,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19369607,
         "user": "user9209"
     },
@@ -8472,7 +8472,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9210"
     },
@@ -8487,7 +8487,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9211"
     },
@@ -8502,7 +8502,7 @@
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
-        "transfer_enable": 32212254720,
+        "transfer_enable": 0,
         "u": 19368436,
         "user": "user9212"
     },
