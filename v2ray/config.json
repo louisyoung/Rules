@@ -10,11 +10,6 @@
         "settings": {
             "clients": [
                 {
-                    "id": "07d3c119-8f6e-6941-52e4-36d31279f98d",
-                    "level": 1,
-                    "alterId": 11
-                },
-                {
                     "id": "f35f936f-416a-fdba-d21d-9fda6efedbf0",
                     "level": 1,
                     "alterId": 11
@@ -90,17 +85,7 @@
                     "alterId": 11
                 },
                 {
-                    "id": "9175d9cb-8697-4de9-89b0-09490c37a981",
-                    "level": 1,
-                    "alterId": 11
-                },
-                {
                     "id": "144aeb3d-583b-66e9-5666-46737ef27806",
-                    "level": 1,
-                    "alterId": 11
-                },
-                {
-                    "id": "a10edb6f-d942-4063-80ef-de1e4f46e915",
                     "level": 1,
                     "alterId": 11
                 },
@@ -126,11 +111,6 @@
                 },
                 {
                     "id": "aa97ecb0-cf23-483b-ad18-1f0a1118eb64",
-                    "level": 1,
-                    "alterId": 11
-                },
-                {
-                    "id": "ffed2de1-a717-c94c-d231-8d4e6a4a6bc9",
                     "level": 1,
                     "alterId": 11
                 },
@@ -413,11 +393,6 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "07d3c119-8f6e-6941-52e4-36d31279f98d",
-                        "level": 1,
-                        "alterId": 11
-                    },
-                    {
                         "id": "f35f936f-416a-fdba-d21d-9fda6efedbf0",
                         "level": 1,
                         "alterId": 11
@@ -493,17 +468,7 @@
                         "alterId": 11
                     },
                     {
-                        "id": "9175d9cb-8697-4de9-89b0-09490c37a981",
-                        "level": 1,
-                        "alterId": 11
-                    },
-                    {
                         "id": "144aeb3d-583b-66e9-5666-46737ef27806",
-                        "level": 1,
-                        "alterId": 11
-                    },
-                    {
-                        "id": "a10edb6f-d942-4063-80ef-de1e4f46e915",
                         "level": 1,
                         "alterId": 11
                     },
@@ -529,11 +494,6 @@
                     },
                     {
                         "id": "aa97ecb0-cf23-483b-ad18-1f0a1118eb64",
-                        "level": 1,
-                        "alterId": 11
-                    },
-                    {
-                        "id": "ffed2de1-a717-c94c-d231-8d4e6a4a6bc9",
                         "level": 1,
                         "alterId": 11
                     },
@@ -970,7 +930,7 @@
             "port": 10014,
             "settings": {
                 "method": "aes-256-cfb",
-                "password": "5687wa$",
+                "password": "5687k",
                 "udp": true,
                 "level": 1
             }
