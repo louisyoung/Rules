@@ -8601,7 +8601,7 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "268mk",
+        "passwd": "2658k",
         "port": 9219,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
