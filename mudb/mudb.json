@@ -45,7 +45,7 @@
         "speed_limit_per_user": 0,
         "transfer_enable": 900727656415232,
         "u": 0,
-        "user": "louis9999"
+        "user": "louis8298"
     },
     {
         "d": 0,
@@ -3243,7 +3243,7 @@
         "user": "user5518"
     },
     {
-        "d": 0,
+        "d": 189655,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -3254,7 +3254,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 54101,
         "user": "user5528"
     },
     {
@@ -3809,7 +3809,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 25,
         "user": "user5710"
     },
     {
@@ -5268,7 +5268,7 @@
         "user": "user6067"
     },
     {
-        "d": 0,
+        "d": 1261241,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -5279,7 +5279,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 49688,
         "user": "user6068"
     },
     {
@@ -7053,7 +7053,7 @@
         "user": "user6477"
     },
     {
-        "d": 0,
+        "d": 10102026,
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
@@ -7064,7 +7064,7 @@
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
-        "u": 0,
+        "u": 224421,
         "user": "user6479"
     },
     {
@@ -9301,5 +9301,165 @@
         "transfer_enable": 32212254720,
         "u": 0,
         "user": "user9273"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1002,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1002"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1003,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1003"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1004,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1004"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1005,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1005"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1006,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1006"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1007,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1007"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1008,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1008"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1009,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1009"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1010,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1010"
+    },
+	{
+        "d": 0,
+        "enable": 1,
+        "forbidden_port": "",
+        "method": "aes-256-cfb",
+        "obfs": "tls1.2_ticket_auth",
+        "passwd": "1359w",
+        "port": 1011,
+        "protocol": "auth_aes128_md5",
+        "protocol_param": "3",
+        "speed_limit_per_con": 0,
+        "speed_limit_per_user": 0,
+        "transfer_enable": 900727656415232,
+        "u": 0,
+        "user": "louis1011"
     }
 ]
