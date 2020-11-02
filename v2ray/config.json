@@ -1,0 +1,1034 @@
+{
+    "log": {
+        "access": "/var/log/v2ray/access.log",
+        "error": "/var/log/v2ray/error.log",
+        "loglevel": "warning"
+    },
+    "inbound": {
+        "port": 543,
+        "protocol": "vmess",
+        "settings": {
+            "clients": [
+                {
+                    "id": "07d3c119-8f6e-6941-52e4-36d31279f98d",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "f35f936f-416a-fdba-d21d-9fda6efedbf0",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "58b4e4c7-bf22-42ae-ae8c-2109fb558fc7",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "21aa4dbf-4749-4898-ab42-efa142b2addc",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "e7f879a8-506f-2fa0-3540-fe2a1c38c271",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "bdd9e67d-014d-1a8b-7f32-bccfef2bcf59",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "9b1ebb08-b026-4dab-8284-42c8bcb9f40d",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "d65d7f77-40f3-410b-a8ec-72e6dc38aab4",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "6e9899af-28fb-391e-34a0-e6db0d53a05b",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "1de7044a-3ef9-4c40-af2b-c312e409e7b2",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "0619a632-50ec-45ad-8c39-0a30570cc20c",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "4d641651-548d-44f2-ab76-de97640b4e01",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "2a3e9b0a-4925-4a35-842e-5eeb72571406",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "f45a0a50-c00d-4da4-b703-5bb3f0a6cfe2",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "144aeb3d-583b-66e9-5666-46737ef27806",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "c7da7631-bb2c-61c2-849f-6f40d0734913",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "78cda998-769d-4673-996c-ffb25d10afb3",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "1bbbf9c5-3820-6e26-7680-bb448c590df6",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "ecb518f7-9520-40e4-8c84-90e3ddc29aca",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "ffed2de1-a717-c94c-d231-8d4e6a4a6bc9",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "06a5e2af-378b-439d-a848-790b8e35bb3e",
+                    "level": 1,
+                    "alterId": 16
+                },
+				{
+                    "id": "eb2a74a1-5201-ca60-c929-dcbed5fcbe1e",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "0c4f374f-fd2c-436f-ab92-2df47fc7ae90",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "7b6c9921-3848-4338-aa92-f5168030e19d",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "f3de9866-f470-4436-a74b-5e8980da08de",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "d0a75ecd-1932-a672-ec20-a85b4619f024",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "f2526a44-c57f-461e-a79b-425772e268e8",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "b9066b85-88aa-93b2-a1a2-c0cb50ae4d1d",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "72a2b7f9-909b-48de-b656-6dfdc74c7af2",
+                    "level": 1,
+                    "alterId": 16
+                },
+				{
+                    "id": "40c599a7-a466-548a-26e4-7eadf4fcd88d",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "881e4425-3bf3-ed77-d6cf-709b37858678",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "bdea0aae-a533-4617-a564-c5df9ef09f9c",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "48254e9f-58e7-5252-d225-94732ac770ec",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "7881c069-d722-c1df-18f5-0f2f84e789a4",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "ca5b9c4e-c687-4be3-e854-7645676dc112",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "d8e7b9b2-88a1-43d3-81ca-d901a81205f2",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "3b70a97d-9f06-4027-988b-68b8b68f670f",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "b400ecad-9933-4f6e-b886-db36e8e6decc",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "f3d1e97a-5346-832d-5e83-0ba09e2d5121",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "5c4a2579-916c-43e0-88f3-45c5cb18a111",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "80747ce2-84fe-4299-83c6-1a4e6070e5ba",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "127b2c7f-6178-fe38-3b18-a9deaa29d9af",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "bd280528-6150-edb0-35cd-24461d8a13b3",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "5df3c9e6-ee50-4d8f-a103-d78b9d3d4fdf",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "9cb7f279-b29b-4447-fafd-cea37e7cad74",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "91723d2b-c80c-5183-8be1-b2ad96ba6955",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "a2fd2d6f-b041-a9ae-894d-f909375a4216",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "fa675c39-f4d7-6135-3d92-8e9e5a82e67e",
+                    "level": 1,
+                    "alterId": 16
+                },                
+                {
+                    "id": "e6f313a4-311e-cd31-8d70-83b994764a3a",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "3a0f7a43-f590-e6a8-4e5e-378cadb20c21",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "a8867489-2487-03f2-84ad-241d159b4ae9",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "70d9c4b5-2da3-4b1d-9624-7168a48111ed",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "e6909043-d6db-3e3d-df56-7921c1308837",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "a37ed552-f18d-fd39-ebbd-6d2898094a1d",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "dfb53d34-2308-41eb-9fa8-562369c47768",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "8f74c814-0145-dab6-8db1-26dcdd414e0d",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "ba600c57-b180-4cc5-ae84-db0d823e7e8f",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "5b937a9a-c012-47f0-9302-e1e71a975537",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "e946f9f2-5581-4f17-8cb3-d3bb716a2432",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "ecf22c95-8c4c-4922-9186-85143cb745fd",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "201cb043-27db-910c-99d2-d5edaf45fa7f",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "a5f058d2-4f29-f971-903a-1f915c8a4adb",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "5b7c893d-a7d9-1642-627f-ddb7d18c2c2f",
+                    "level": 1,
+                    "alterId": 16
+                },
+				{
+                    "id": "47e8632a-6b7e-4e1c-960e-63f257049a5a",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "4094d827-eb8a-3a17-d2dc-c6d10ac4a733",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "c875c137-39d3-4171-a59b-7c3c4ac1d3c6",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "fcd31405-f345-401a-0223-b107853e15e6",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "15407041-89da-0c01-8e32-c378664f8c84",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "1a505eca-e012-0a63-a091-d1db6d05bef9",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "9ac9240e-6299-d24a-a268-be5ac0f0d562",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "3345b4c7-17e1-21f4-fe99-0d4e0f46fbe6",
+                    "level": 1,
+                    "alterId": 16
+                },
+                {
+                    "id": "08519122-29da-0f8f-9cf0-0c3ad632ba97",
+                    "level": 1,
+                    "alterId": 16
+                }
+            ]
+        }
+    },
+    "outbound": {
+        "protocol": "freedom",
+        "settings": {}
+    },
+    "inboundDetour": [
+        {
+            "port": 443,
+            "protocol": "vmess",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "07d3c119-8f6e-6941-52e4-36d31279f98d",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "f35f936f-416a-fdba-d21d-9fda6efedbf0",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "58b4e4c7-bf22-42ae-ae8c-2109fb558fc7",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "21aa4dbf-4749-4898-ab42-efa142b2addc",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "e7f879a8-506f-2fa0-3540-fe2a1c38c271",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "bdd9e67d-014d-1a8b-7f32-bccfef2bcf59",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "9b1ebb08-b026-4dab-8284-42c8bcb9f40d",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "d65d7f77-40f3-410b-a8ec-72e6dc38aab4",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "6e9899af-28fb-391e-34a0-e6db0d53a05b",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "1de7044a-3ef9-4c40-af2b-c312e409e7b2",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "0619a632-50ec-45ad-8c39-0a30570cc20c",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "4d641651-548d-44f2-ab76-de97640b4e01",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "2a3e9b0a-4925-4a35-842e-5eeb72571406",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "f45a0a50-c00d-4da4-b703-5bb3f0a6cfe2",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "144aeb3d-583b-66e9-5666-46737ef27806",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "c7da7631-bb2c-61c2-849f-6f40d0734913",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "78cda998-769d-4673-996c-ffb25d10afb3",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "1bbbf9c5-3820-6e26-7680-bb448c590df6",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "ecb518f7-9520-40e4-8c84-90e3ddc29aca",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "ffed2de1-a717-c94c-d231-8d4e6a4a6bc9",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "06a5e2af-378b-439d-a848-790b8e35bb3e",
+                        "level": 1,
+                        "alterId": 16
+                    },
+					{
+                        "id": "eb2a74a1-5201-ca60-c929-dcbed5fcbe1e",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "0c4f374f-fd2c-436f-ab92-2df47fc7ae90",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "7b6c9921-3848-4338-aa92-f5168030e19d",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "f3de9866-f470-4436-a74b-5e8980da08de",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "d0a75ecd-1932-a672-ec20-a85b4619f024",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "f2526a44-c57f-461e-a79b-425772e268e8",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "b9066b85-88aa-93b2-a1a2-c0cb50ae4d1d",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "72a2b7f9-909b-48de-b656-6dfdc74c7af2",
+                        "level": 1,
+                        "alterId": 16
+                    },
+					{
+                        "id": "40c599a7-a466-548a-26e4-7eadf4fcd88d",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "20ad6a9e-2259-4f23-9f2e-2f4fa3f3dd63",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "20ad6a9e-2259-4f23-9f2e-2f4fa3f3dd63",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "881e4425-3bf3-ed77-d6cf-709b37858678",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "bdea0aae-a533-4617-a564-c5df9ef09f9c",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "48254e9f-58e7-5252-d225-94732ac770ec",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "7881c069-d722-c1df-18f5-0f2f84e789a4",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "ca5b9c4e-c687-4be3-e854-7645676dc112",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "d8e7b9b2-88a1-43d3-81ca-d901a81205f2",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "3b70a97d-9f06-4027-988b-68b8b68f670f",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "b400ecad-9933-4f6e-b886-db36e8e6decc",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "f3d1e97a-5346-832d-5e83-0ba09e2d5121",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "5c4a2579-916c-43e0-88f3-45c5cb18a111",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "80747ce2-84fe-4299-83c6-1a4e6070e5ba",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "127b2c7f-6178-fe38-3b18-a9deaa29d9af",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "bd280528-6150-edb0-35cd-24461d8a13b3",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "5df3c9e6-ee50-4d8f-a103-d78b9d3d4fdf",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "9cb7f279-b29b-4447-fafd-cea37e7cad74",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "91723d2b-c80c-5183-8be1-b2ad96ba6955",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "a2fd2d6f-b041-a9ae-894d-f909375a4216",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "fa675c39-f4d7-6135-3d92-8e9e5a82e67e",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "e6f313a4-311e-cd31-8d70-83b994764a3a",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "3a0f7a43-f590-e6a8-4e5e-378cadb20c21",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "a8867489-2487-03f2-84ad-241d159b4ae9",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "70d9c4b5-2da3-4b1d-9624-7168a48111ed",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "e6909043-d6db-3e3d-df56-7921c1308837",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "a37ed552-f18d-fd39-ebbd-6d2898094a1d",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "dfb53d34-2308-41eb-9fa8-562369c47768",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "8f74c814-0145-dab6-8db1-26dcdd414e0d",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "ba600c57-b180-4cc5-ae84-db0d823e7e8f",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "5b937a9a-c012-47f0-9302-e1e71a975537",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "e946f9f2-5581-4f17-8cb3-d3bb716a2432",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "ecf22c95-8c4c-4922-9186-85143cb745fd",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "201cb043-27db-910c-99d2-d5edaf45fa7f",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "a5f058d2-4f29-f971-903a-1f915c8a4adb",
+                        "level": 1,
+                        "alterId": 16
+                    },
+					{
+						"id": "5b7c893d-a7d9-1642-627f-ddb7d18c2c2f",
+						"level": 1,
+						"alterId": 16
+					},
+					{
+                        "id": "47e8632a-6b7e-4e1c-960e-63f257049a5a",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "4094d827-eb8a-3a17-d2dc-c6d10ac4a733",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "c875c137-39d3-4171-a59b-7c3c4ac1d3c6",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "fcd31405-f345-401a-0223-b107853e15e6",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "15407041-89da-0c01-8e32-c378664f8c84",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "1a505eca-e012-0a63-a091-d1db6d05bef9",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "9ac9240e-6299-d24a-a268-be5ac0f0d562",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "3345b4c7-17e1-21f4-fe99-0d4e0f46fbe6",
+                        "level": 1,
+                        "alterId": 16
+                    },
+                    {
+                        "id": "08519122-29da-0f8f-9cf0-0c3ad632ba97",
+                        "level": 1,
+                        "alterId": 16
+                    }
+                ]
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 666,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2018$",
+                "udp": true,
+                "level": 1
+            }
+        },
+        {
+            "protocol": "shadowsocks",
+            "port": 10000,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2589w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10001,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "1133w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10002,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "56463",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10003,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "3379m",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10004,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "21569",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10005,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2598w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10006,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "25966",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10007,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "1565w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10008,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2565k",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10009,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2598w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10010,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2568w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10011,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2567t",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10012,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "3796m",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10013,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2567m",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10014,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "5687wa$",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10015,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "1568m",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10016,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "1568w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10017,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "1564k",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10018,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2568k",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10019,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "1689w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10020,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "1597w",
+                "udp": true,
+                "level": 1
+            }
+        },
+		{
+            "protocol": "shadowsocks",
+            "port": 10021,
+            "settings": {
+                "method": "aes-256-cfb",
+                "password": "2165k",
+                "udp": true,
+                "level": 1
+            }
+        },
+        {
+            "protocol": "shadowsocks",
+            "port": 11000,
+            "settings": {
+                "method": "chacha20",
+                "password": "1235w",
+                "udp": true,
+                "level": 1
+            }
+        }
+    ],
+    "outboundDetour": [
+        {
+            "protocol": "blackhole",
+            "settings": {},
+            "tag": "blocked"
+        }
+    ],
+    "routing": {
+        "strategy": "rules",
+        "settings": {
+            "rules": [
+                {
+                    "type": "field",
+                    "ip": [
+                        "0.0.0.0/8",
+                        "10.0.0.0/8",
+                        "100.64.0.0/10",
+                        "127.0.0.0/8",
+                        "169.254.0.0/16",
+                        "172.16.0.0/12",
+                        "192.0.0.0/24",
+                        "192.0.2.0/24",
+                        "192.168.0.0/16",
+                        "198.18.0.0/15",
+                        "198.51.100.0/24",
+                        "203.0.113.0/24",
+                        "::1/128",
+                        "fc00::/7",
+                        "fe80::/10"
+                    ],
+                    "outboundTag": "blocked"
+                }
+            ]
+        }
+    }
+}
