@@ -45,22 +45,12 @@
                     "alterId": 16
                 },
                 {
-                    "id": "d65d7f77-40f3-410b-a8ec-72e6dc38aab4",
+                    "id": "f3601170-c224-42a1-8581-e55a5dad68f9",
                     "level": 1,
                     "alterId": 16
                 },
                 {
                     "id": "6e9899af-28fb-391e-34a0-e6db0d53a05b",
-                    "level": 1,
-                    "alterId": 16
-                },
-                {
-                    "id": "1de7044a-3ef9-4c40-af2b-c312e409e7b2",
-                    "level": 1,
-                    "alterId": 16
-                },
-                {
-                    "id": "0619a632-50ec-45ad-8c39-0a30570cc20c",
                     "level": 1,
                     "alterId": 16
                 },
@@ -106,11 +96,6 @@
                 },
                 {
                     "id": "ffed2de1-a717-c94c-d231-8d4e6a4a6bc9",
-                    "level": 1,
-                    "alterId": 16
-                },
-                {
-                    "id": "06a5e2af-378b-439d-a848-790b8e35bb3e",
                     "level": 1,
                     "alterId": 16
                 },
@@ -280,11 +265,6 @@
                     "alterId": 16
                 },
                 {
-                    "id": "dfb53d34-2308-41eb-9fa8-562369c47768",
-                    "level": 1,
-                    "alterId": 16
-                },
-                {
                     "id": "8f74c814-0145-dab6-8db1-26dcdd414e0d",
                     "level": 1,
                     "alterId": 16
@@ -335,7 +315,7 @@
                     "alterId": 16
                 },
                 {
-                    "id": "c875c137-39d3-4171-a59b-7c3c4ac1d3c6",
+                    "id": "434bd5a8-26e1-4011-a878-5fd3628104c4",
                     "level": 1,
                     "alterId": 16
                 },
@@ -360,7 +340,7 @@
                     "alterId": 16
                 },
                 {
-                    "id": "3345b4c7-17e1-21f4-fe99-0d4e0f46fbe6",
+                    "id": "36a9e74f-dde5-4b73-9c8e-49031043264e",
                     "level": 1,
                     "alterId": 16
                 },
@@ -418,22 +398,12 @@
                         "alterId": 16
                     },
                     {
-                        "id": "d65d7f77-40f3-410b-a8ec-72e6dc38aab4",
+                        "id": "f3601170-c224-42a1-8581-e55a5dad68f9",
                         "level": 1,
                         "alterId": 16
                     },
                     {
                         "id": "6e9899af-28fb-391e-34a0-e6db0d53a05b",
-                        "level": 1,
-                        "alterId": 16
-                    },
-                    {
-                        "id": "1de7044a-3ef9-4c40-af2b-c312e409e7b2",
-                        "level": 1,
-                        "alterId": 16
-                    },
-                    {
-                        "id": "0619a632-50ec-45ad-8c39-0a30570cc20c",
                         "level": 1,
                         "alterId": 16
                     },
@@ -479,11 +449,6 @@
                     },
                     {
                         "id": "ffed2de1-a717-c94c-d231-8d4e6a4a6bc9",
-                        "level": 1,
-                        "alterId": 16
-                    },
-                    {
-                        "id": "06a5e2af-378b-439d-a848-790b8e35bb3e",
                         "level": 1,
                         "alterId": 16
                     },
@@ -663,11 +628,6 @@
                         "alterId": 16
                     },
                     {
-                        "id": "dfb53d34-2308-41eb-9fa8-562369c47768",
-                        "level": 1,
-                        "alterId": 16
-                    },
-                    {
                         "id": "8f74c814-0145-dab6-8db1-26dcdd414e0d",
                         "level": 1,
                         "alterId": 16
@@ -718,7 +678,7 @@
                         "alterId": 16
                     },
                     {
-                        "id": "c875c137-39d3-4171-a59b-7c3c4ac1d3c6",
+                        "id": "434bd5a8-26e1-4011-a878-5fd3628104c4",
                         "level": 1,
                         "alterId": 16
                     },
@@ -743,7 +703,7 @@
                         "alterId": 16
                     },
                     {
-                        "id": "3345b4c7-17e1-21f4-fe99-0d4e0f46fbe6",
+                        "id": "36a9e74f-dde5-4b73-9c8e-49031043264e",
                         "level": 1,
                         "alterId": 16
                     },
@@ -890,7 +850,7 @@
             "port": 10012,
             "settings": {
                 "method": "aes-256-cfb",
-                "password": "3796m",
+                "password": "3897m",
                 "udp": true,
                 "level": 1
             }
@@ -910,7 +870,7 @@
             "port": 10014,
             "settings": {
                 "method": "aes-256-cfb",
-                "password": "5687wa$",
+                "password": "5687k",
                 "udp": true,
                 "level": 1
             }
@@ -920,7 +880,7 @@
             "port": 10015,
             "settings": {
                 "method": "aes-256-cfb",
-                "password": "1568m",
+                "password": "1598m",
                 "udp": true,
                 "level": 1
             }
