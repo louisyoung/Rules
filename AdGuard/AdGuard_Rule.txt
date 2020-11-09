@@ -1,0 +1,16 @@
+hypebeast.cn###ad-blocker-popup
+hypebeast.cn###editorial-app
+hypebeast.cn###newsletter-popup > div.modal-dialog > div.modal-content.app-modal > div.row > div.col-12.register-form:last-child
+hypebeast.cn###newsletter-popup > div.modal-dialog > div.modal-content.app-modal > div.row > div.modal-close-btn:first-child > img.loading
+msdn.itellyou.cn##div.modal.fade.bs-example-modal-sm.in:nth-child(4) > div.modal-dialog.modal-sm > div.modal-content
+olevod.com###play_right > div.slide_playBox:first-child > div.bd:last-child > ul.play_box3.ps-container:first-child
+v.youku.com###ykPlayer > div.h5-ext-layer:last-child > div.pu6c925uiobl:last-child > div.vad0aueuva06.oo2pxcoslq1:first-child
+juejin.im###juejin > div.recommend-box:last-child > div.extension > div.link:first-child
+juejin.im###juejin > div.recommend-box:last-child > div.extension
+blog.csdn.net###passportbox > iframe
+blog.csdn.net##div.login-mark:nth-child(44)
+baidu.com###s_xmancard_news_new > div.s-news-wrapper.clearfix:nth-child(2) > div.water-container:last-child > div.s-news-list-wrapper.c-container.c-feed-box > div.s-news-special.s-news-item.s-news-special-item-tpl-1.s-opacity-blank8.clearfix:last-child
+baidu.com###s_xmancard_news_new > div.s-news-wrapper.clearfix:nth-child(2) > div.water-container:last-child > div.s-news-list-wrapper.c-container.c-feed-box > div.s-news-special.s-news-item.s-news-special-item-tpl-3.s-opacity-blank8.clearfix.news-viewed:nth-child(2) > a.s-news-item-title.c-link.c-font-big.c-gap-bottom-small.c-line-clamp1:first-child
+baidu.com###s_xmancard_news_new > div.s-news-wrapper.clearfix:nth-child(2) > div.water-container:last-child > div.s-news-list-wrapper.c-container.c-feed-box > div.s-news-special.s-news-item.s-news-special-item-tpl-3.s-opacity-blank8.clearfix:first-child > a.s-news-item-title.c-link.c-font-big.c-gap-bottom-small.c-line-clamp1:first-child
+baidu.com###s_xmancard_news_new > div.s-news-wrapper.clearfix:nth-child(2) > div.water-container:last-child > div.s-news-list-wrapper.c-container.c-feed-box > div.s-news-special.s-news-item.s-news-special-item-tpl-3.s-opacity-blank8.clearfix:first-child
+baidu.com###s_xmancard_news_new > div.s-news-wrapper.clearfix:nth-child(2) > div.water-container:last-child > div.s-news-list-wrapper.c-container.c-feed-box > div.s-news-special.s-news-item.s-news-special-item-tpl-3.s-opacity-blank8.clearfix.news-viewed:nth-child(2) > div.from.c-font-normal:last-child
