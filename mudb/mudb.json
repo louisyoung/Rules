@@ -9660,7 +9660,7 @@
         "forbidden_port": "",
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "1655m",
+        "passwd": "1675m",
         "port": 1024,
         "protocol": "auth_aes128_md5",
         "protocol_param": "3",
