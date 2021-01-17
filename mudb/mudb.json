@@ -1987,15 +1987,15 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "2583z$",
-        "port": 9018,
+        "passwd": "2583z",
+        "port": 20036,
         "protocol": "auth_aes128_md5",
         "protocol_param": "0",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
         "u": 0,
-        "user": "user9018"
+        "user": "user20036"
     },
     {
         "d": 0,
@@ -2737,7 +2737,7 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "2615w$",
+        "passwd": "2615w",
         "port": 8252,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
@@ -4972,15 +4972,15 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "1274mw$",
-        "port": 5989,
+        "passwd": "1279w",
+        "port": 20039,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
         "u": 0,
-        "user": "user5989"
+        "user": "user20039"
     },
     {
         "d": 0,
@@ -5903,14 +5903,14 @@
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
         "passwd": "2663m",
-        "port": 6202,
+        "port": 20043,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
         "u": 0,
-        "user": "user6202"
+        "user": "user20043"
     },
     {
         "d": 0,
@@ -7012,15 +7012,15 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "2185w$",
-        "port": 6468,
+        "passwd": "2185w",
+        "port": 20038,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
         "u": 0,
-        "user": "user6468"
+        "user": "user20038"
     },
     {
         "d": 0,
@@ -7208,14 +7208,14 @@
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
         "passwd": "1582w",
-        "port": 6507,
+        "port": 20042,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
         "u": 0,
-        "user": "user6507"
+        "user": "user20042"
     },
     {
         "d": 0,
@@ -8197,15 +8197,15 @@
         "enable": 1,
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "2699k$",
-        "port": 5521,
+        "passwd": "2699k",
+        "port": 20037,
         "protocol": "auth_aes128_md5",
         "protocol_param": "2",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 32212254720,
         "u": 0,
-        "user": "user5517"
+        "user": "user20037"
     },
     {
         "d": 0,
@@ -9596,15 +9596,15 @@
         "forbidden_port": "",
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
-        "passwd": "1659w$",
-        "port": 1020,
+        "passwd": "1659m",
+        "port": 20040,
         "protocol": "auth_aes128_md5",
         "protocol_param": "3",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 900727656415232,
         "u": 0,
-        "user": "louis1020"
+        "user": "louis20040"
     },
 	{
         "d": 0,
@@ -10365,14 +10365,14 @@
         "method": "aes-256-cfb",
         "obfs": "tls1.2_ticket_auth",
         "passwd": "1672z",
-        "port": 1076,
+        "port": 20041,
         "protocol": "auth_aes128_md5",
         "protocol_param": "3",
         "speed_limit_per_con": 0,
         "speed_limit_per_user": 0,
         "transfer_enable": 900727656415232,
         "u": 0,
-        "user": "louis1076"
+        "user": "louis20041"
     },
 	{
         "d": 0,
